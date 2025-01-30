@@ -4,6 +4,8 @@
 
 This Power BI report provides an in-depth analysis of the operational performance of a passenger transport platform, covering key metrics such as ride trends, driver performance, fleet utilization, revenue generation, and customer satisfaction. The report aims to equip stakeholders with actionable insights into optimizing operations and enhancing service delivery for both drivers and passengers.
 
+🔗 Watch my presentation here: https://www.linkedin.com/feed/update/urn:li:activity:7280745255044370434/?originTrackingId=E2pQ%2BN9QSM6IEcXlhfKj1Q%3D%3D
+
 ## Data
 
 The dataset includes:
